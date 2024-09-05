@@ -37,6 +37,7 @@ h1, b{
     border: 5px solid black;
     border-radius: 10px;
     box-shadow: black;
+    justify-content: center;
 }
 .pokemon-container{
     background-color: #ab98428c;
@@ -47,6 +48,7 @@ h1, b{
     margin: 25px;
     gap: 10px 10px;
     border: 2px solid black;
+    
 }
 .card{
     width: 200px;
